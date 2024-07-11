@@ -19,5 +19,5 @@ Hoje, na era moderna, jogos como The Witcher 3 e Cyberpunk 2077 desafiam nossas 
 Os videogames não são apenas diversão, mas uma forma de arte, eles mostram como nos conectamos e entendemos o mundo.
  Agradeço a todos por embarcarem nessa jornada. Até a próxima aventura!
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 A inteligência artificial tem desempenhado um papel cada vez mais significativo em nossas vidas nos últimos anos, oferecendo benefícios tangíveis e transformando diversos aspectos da sociedade. Desde assistentes pessoais em nossos smartphones até algoritmos avançados que impulsionam a pesquisa científica, a IA tem se mostrado uma ferramenta poderosa para melhorar a eficiência, a precisão e até mesmo a criatividade humana.
