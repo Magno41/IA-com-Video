@@ -12,6 +12,7 @@ O processo de criação do vídeo foi bastante simples. Primeiramente, solicitei
 
 ## 🚀 Resultados
 Link do vídeo
+
 Este roteiro emocionante explora a evolução dos videogames ao longo dos anos,.
 Nos anos 80 e 90, os consoles domésticos como o NES e o Sega Genesis trouxeram ícones como Super Mario e Sonic, elevando os jogos a fenômenos culturais com gráficos melhores 
 Hoje, na era moderna, jogos como The Witcher 3 e Cyberpunk 2077 desafiam nossas expectativas com gráficos hiper-realistas, inteligência artificial avançada e narrativas complexas. O futuro promete ainda mais, com realidade virtual, IA sofisticada e novas fronteiras na interação e na experiência do jogador.
