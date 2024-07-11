@@ -11,7 +11,7 @@ Videnoz AI: Transcrição de áudio, vídeo e legenda.
 O processo de criação do vídeo foi bastante simples. Primeiramente, solicitei ao ChatGPT que criasse um texto sobre o assunto. Em seguida, utilizei o site VidenozAI, onde escolhi um projeto pronto, inseri o texto e cliquei em gerar. Foi incrivelmente fácil e rápido obter o vídeo finalizado.
 
 ## 🚀 Resultados
-Link do vídeo
+Link do vídeo  https://www.youtube.com/watch?v=U3ZjLnQOxxY
 
 Bem-vindos, pessoal! Hoje vamos explorar uma jornada emocionante pelo mundo dos videogames e descobrir como eles evoluíram ao longo dos anos. Preparem-se para uma viagem cheia de nostalgia, inovação e muita diversão!Imagine-se nos anos 70, quando os primeiros arcades começaram a surgir. Máquinas pesadas, gráficos simples, mas uma novidade eletrizante! Os jogadores mergulhavam em mundos pixelizados de desafios como Pac-Man e Space Invaders, inaugurando uma era de entretenimento interativo.
 Nos anos 90, uma revolução completa: o salto para o 3D. Com o lançamento do PlayStation, N64 e outros, os jogos ganharam profundidade literal e figurativamente. De corridas emocionantes em mundos abertos a aventuras épicas com visuais deslumbrantes, os jogadores agora podiam explorar novos horizontes e experiências imersivas como nunca antes.
